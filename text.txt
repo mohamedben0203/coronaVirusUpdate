@@ -1,0 +1,200 @@
+USA	     cases: 119,682	 total deaths: 1,988 
+Italy	 cases: 92,472	 total deaths: 10,023 
+Spain	 cases: 72,248	 total deaths: 5,812 
+Germany	 cases: 57,695	 total deaths: 430 
+France	 cases: 37,575	 total deaths: 2,314 
+Iran	 cases: 35,408	 total deaths: 2,517 
+UK	 cases: 17,089	 total deaths: 1,019 
+Switzerland	 cases: 14,076	 total deaths: 264 
+Netherlands	 cases: 9,762	 total deaths: 639 
+S. Korea	 cases: 9,478	 total deaths: 144 
+Belgium	 cases: 9,134	 total deaths: 353  
+Austria	 cases: 8,188	 total deaths: 68 
+Turkey	 cases: 7,402	 total deaths: 108 
+Canada	 cases: 5,546	 total deaths: 55 
+Portugal	 cases: 5,170	 total deaths: 100 
+Norway	 cases: 4,001	 total deaths: 23 
+Australia	 cases: 3,635	 total deaths: 14 
+Israel	 cases: 3,619	 total deaths: 12 
+Brazil	 cases: 3,477	 total deaths: 93 
+Sweden	 cases: 3,447	 total deaths: 105 
+Czechia	 cases: 2,541	 total deaths: 11 
+Ireland	 cases: 2,415	 total deaths: 36 
+Malaysia	 cases: 2,320	 total deaths: 27 
+Denmark	 cases: 2,201	 total deaths: 65 
+Chile	 cases: 1,909	 total deaths: 6 
+Luxembourg	 cases: 1,831	 total deaths: 18 
+Ecuador	 cases: 1,823	 total deaths: 48 
+Poland	 cases: 1,638	 total deaths: 18 
+Japan	 cases: 1,499	 total deaths: 49 
+Pakistan	 cases: 1,495	 total deaths: 12 
+Romania	 cases: 1,452	 total deaths: 30 
+Russia	 cases: 1,264	 total deaths: 4 
+Thailand	 cases: 1,245	 total deaths: 6 
+Saudi Arabia	 cases: 1,203	 total deaths: 4 
+South Africa	 cases: 1,187	 total deaths: 2 
+Finland	 cases: 1,167	 total deaths: 9 
+Indonesia	 cases: 1,155	 total deaths: 102 
+Philippines	 cases: 1,075	 total deaths: 68 
+Greece	 cases: 1,061	 total deaths: 32 
+Iceland	 cases: 963	 total deaths: 2 
+India	 cases: 933	 total deaths: 20 
+Singapore	 cases: 802	 total deaths: 2 
+Panama	 cases: 786	 total deaths: 14 
+Dominican Republic	 cases: 719	 total deaths: 28 
+Mexico	 cases: 717	 total deaths: 12 
+Diamond Princess	 cases: 712	 total deaths: 10 
+Argentina	 cases: 690	 total deaths: 17 
+Slovenia	 cases: 684	 total deaths: 9 
+Peru	 cases: 671	 total deaths: 16 
+Serbia	 cases: 659	 total deaths: 10 
+Croatia	 cases: 657	 total deaths: 5 
+Estonia	 cases: 645	 total deaths: 1 
+Colombia	 cases: 608	 total deaths: 6 
+Qatar	 cases: 590	 total deaths: 1 
+Egypt	 cases: 576	 total deaths: 36 
+Hong Kong	 cases: 560	 total deaths: 4 
+Iraq	 cases: 506	 total deaths: 42 
+Bahrain	 cases: 476	 total deaths: 4 
+UAE	 cases: 468	 total deaths: 2 
+Algeria	 cases: 454	 total deaths: 29 
+New Zealand	 cases: 451	 total deaths:  
+Lebanon	 cases: 412	 total deaths: 8 
+Armenia	 cases: 407	 total deaths: 1 
+Lithuania	 cases: 394	 total deaths: 7  
+Morocco	 cases: 359	 total deaths: 24 
+Hungary	 cases: 343	 total deaths: 11 
+Bulgaria	 cases: 331	 total deaths: 6 
+Ukraine	 cases: 311	 total deaths: 8 
+Andorra	 cases: 308	 total deaths: 3 
+Latvia	 cases: 305	 total deaths:  
+Slovakia	 cases: 292	 total deaths:  
+Taiwan	 cases: 283	 total deaths: 2 
+Uruguay	 cases: 274	 total deaths:  
+Costa Rica	 cases: 263	 total deaths: 2 
+Bosnia and Herzegovina	 cases: 258	 total deaths: 5 
+Tunisia	 cases: 257	 total deaths: 8 
+Jordan	 cases: 246	 total deaths: 1 
+North Macedonia	 cases: 241	 total deaths: 4 
+Kuwait	 cases: 235	 total deaths:  
+Moldova	 cases: 231	 total deaths: 2 
+Kazakhstan	 cases: 228	 total deaths: 1 
+San Marino	 cases: 224	 total deaths: 22 
+Burkina Faso	 cases: 207	 total deaths: 11 
+Albania	 cases: 197	 total deaths: 10 
+R��union	 cases: 183	 total deaths:  
+Azerbaijan	 cases: 182	 total deaths: 4 
+Cyprus	 cases: 179	 total deaths: 5 
+Vietnam	 cases: 174	 total deaths:  
+Faeroe Islands	 cases: 155	 total deaths:  
+Oman	 cases: 152	 total deaths:  
+Malta	 cases: 149	 total deaths:  
+Ghana	 cases: 141	 total deaths: 5 
+Senegal	 cases: 130	 total deaths:  
+Brunei 	 cases: 120	 total deaths: 1 
+Cuba	 cases: 119	 total deaths: 3 
+Venezuela	 cases: 113	 total deaths: 2 
+Sri Lanka	 cases: 113	 total deaths: 1 
+Afghanistan	 cases: 110	 total deaths: 4 
+Uzbekistan	 cases: 104	 total deaths: 2 
+Guadeloupe	 cases: 102	 total deaths: 2 
+Mauritius	 cases: 102	 total deaths: 2 
+Ivory Coast	 cases: 101	 total deaths:  
+Cambodia	 cases: 99	 total deaths:  
+Channel Islands	 cases: 97	 total deaths: 1 
+Palestine	 cases: 97	 total deaths: 1 
+Honduras	 cases: 95	 total deaths: 1 
+Belarus	 cases: 94	 total deaths:  
+Martinique	 cases: 93	 total deaths: 1 
+Cameroon	 cases: 91	 total deaths: 2 
+Georgia	 cases: 90	 total deaths:  
+Nigeria	 cases: 89	 total deaths: 1 
+Montenegro	 cases: 82	 total deaths: 1 
+Trinidad and Tobago	 cases: 74	 total deaths: 2 
+Bolivia	 cases: 74	 total deaths:  
+DRC	 cases: 65	 total deaths: 6 
+Mayotte	 cases: 63	 total deaths:  
+Rwanda	 cases: 60	 total deaths:  
+Kyrgyzstan	 cases: 58	 total deaths:  
+Paraguay	 cases: 56	 total deaths: 3 
+Gibraltar	 cases: 56	 total deaths:  
+Liechtenstein	 cases: 56	 total deaths:  
+Bangladesh	 cases: 48	 total deaths: 5 
+Aruba	 cases: 46	 total deaths:  
+Monaco	 cases: 42	 total deaths:  
+Kenya	 cases: 38	 total deaths: 1 
+Guatemala	 cases: 34	 total deaths: 1 
+Macao	 cases: 34	 total deaths:  
+Isle of Man	 cases: 32	 total deaths:  
+Jamaica	 cases: 30	 total deaths: 1 
+French Polynesia	 cases: 30	 total deaths:  
+French Guiana	 cases: 28	 total deaths:  
+Zambia	 cases: 28	 total deaths:  
+Barbados	 cases: 26	 total deaths:  
+Madagascar	 cases: 26	 total deaths:  
+Togo	 cases: 25	 total deaths: 1 
+Uganda	 cases: 23	 total deaths:  
+El Salvador	 cases: 19	 total deaths:  
+Mali	 cases: 18	 total deaths:  
+Bermuda	 cases: 17	 total deaths:  
+Ethiopia	 cases: 16	 total deaths:  
+Maldives	 cases: 16	 total deaths:  
+New Caledonia	 cases: 15	 total deaths:  
+Tanzania	 cases: 14	 total deaths:  
+Djibouti	 cases: 12	 total deaths:  
+Equatorial Guinea	 cases: 12	 total deaths:  
+Mongolia	 cases: 12	 total deaths:  
+Dominica	 cases: 11	 total deaths:  
+Saint Martin	 cases: 11	 total deaths:  
+Niger	 cases: 10	 total deaths: 1 
+Bahamas	 cases: 10	 total deaths:  
+Greenland	 cases: 10	 total deaths:  
+Eswatini	 cases: 9	 total deaths:  
+Cayman Islands	 cases: 8	 total deaths: 1 
+Guyana	 cases: 8	 total deaths: 1 
+Guinea	 cases: 8	 total deaths:  
+Haiti	 cases: 8	 total deaths:  
+Laos	 cases: 8	 total deaths:  
+Mozambique	 cases: 8	 total deaths:  
+Myanmar	 cases: 8	 total deaths:  
+Namibia	 cases: 8	 total deaths:  
+Seychelles	 cases: 8	 total deaths:  
+Suriname	 cases: 8	 total deaths:  
+Gabon	 cases: 7	 total deaths: 1 
+Zimbabwe	 cases: 7	 total deaths: 1 
+Antigua and Barbuda	 cases: 7	 total deaths:  
+Grenada	 cases: 7	 total deaths:  
+Benin	 cases: 6	 total deaths:  
+Eritrea	 cases: 6	 total deaths:  
+Vatican City	 cases: 6	 total deaths:  
+Cabo Verde	 cases: 5	 total deaths: 1 
+Sudan	 cases: 5	 total deaths: 1 
+Nepal	 cases: 5	 total deaths:  
+Fiji	 cases: 5	 total deaths:  
+Mauritania	 cases: 5	 total deaths:  
+Montserrat	 cases: 5	 total deaths:  
+St. Barth	 cases: 5	 total deaths:  
+Syria	 cases: 5	 total deaths:  
+Nicaragua	 cases: 4	 total deaths: 1 
+Angola	 cases: 4	 total deaths:  
+Congo	 cases: 4	 total deaths:  
+Turks and Caicos	 cases: 4	 total deaths:  
+Gambia	 cases: 3	 total deaths: 1 
+Bhutan	 cases: 3	 total deaths:  
+CAR	 cases: 3	 total deaths:  
+Chad	 cases: 3	 total deaths:  
+Liberia	 cases: 3	 total deaths:  
+Libya	 cases: 3	 total deaths:  
+Saint Lucia	 cases: 3	 total deaths:  
+Sint Maarten	 cases: 3	 total deaths:  
+Somalia	 cases: 3	 total deaths:  
+MS Zaandam	 cases: 2	 total deaths:  
+Anguilla	 cases: 2	 total deaths:  
+Belize	 cases: 2	 total deaths:  
+British Virgin Islands	 cases: 2	 total deaths:  
+Guinea-Bissau	 cases: 2	 total deaths:  
+Saint Kitts and Nevis	 cases: 2	 total deaths:  
+Papua New Guinea	 cases: 1	 total deaths:  
+St. Vincent Grenadines	 cases: 1	 total deaths:  
+Timor-Leste	 cases: 1	 total deaths:  
+China	 cases: 81,394	 total deaths: 3,295 
