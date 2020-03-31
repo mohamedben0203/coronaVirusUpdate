@@ -40,13 +40,15 @@ database = []
 for item in items:
     list = item.find_all('td')
     name = list[0].text
-    cases = list[1].text
-    deaths = list[3].text
+    cases = int(list[1].text.replace(',',''))
+    deaths = list[3].text.replace(',', '')
+    if len(deaths) == 1:
+        deaths = 0
     firstDate = list[10].text.replace('\n', '')
-    count = country(name, cases, deaths, firstDate)
+    count = country(name, cases, int(deaths), firstDate)
     database.append(count)
 
-database.sort(key=lambda x: x.totalCases, reverse=False)
+database.sort(key=lambda x: x.totalCases, reverse=True)
 
 #write to file
 try:

@@ -1,203 +1,203 @@
-Papua New Guinea         cases: 1      	 total deaths:       	First case: Mar 19 
-St. Vincent Grenadines   cases: 1      	 total deaths:       	First case: Mar 10 
-Sierra Leone             cases: 1      	 total deaths:       	First case: Mar 30 
-Timor-Leste              cases: 1      	 total deaths:       	First case: Mar 20 
-Peru                     cases: 1,065  	 total deaths: 30    	First case: Mar 05 
-Panama                   cases: 1,075  	 total deaths: 27    	First case: Mar 09 
-Mexico                   cases: 1,094  	 total deaths: 28    	First case: Feb 27 
-Dominican Republic       cases: 1,109  	 total deaths: 51    	First case: Feb 29 
-Iceland                  cases: 1,135  	 total deaths: 2     	First case: Feb 27 
-Greece                   cases: 1,314  	 total deaths: 49    	First case: Feb 25 
-South Africa             cases: 1,353  	 total deaths: 5     	First case:  Mar 04 
-India                    cases: 1,397  	 total deaths: 35    	First case: Jan 29 
-Finland                  cases: 1,418  	 total deaths: 17    	First case: Jan 28 
-Indonesia                cases: 1,528  	 total deaths: 136   	First case: Mar 01 
-Saudi Arabia             cases: 1,563  	 total deaths: 10    	First case: Mar 01 
-Thailand                 cases: 1,651  	 total deaths: 10    	First case: Jan 12 
-Pakistan                 cases: 1,938  	 total deaths: 26    	First case: Feb 25 
-Japan                    cases: 1,953  	 total deaths: 56    	First case: Jan 14 
-Syria                    cases: 10     	 total deaths: 2     	First case: Mar 21 
-Greenland                cases: 10     	 total deaths:       	First case: Mar 15 
-Seychelles               cases: 10     	 total deaths:       	First case: Mar 13 
-Austria                  cases: 10,122 	 total deaths: 128   	First case: Feb 24 
-Italy                    cases: 105,792	 total deaths: 12,428 	First case: Jan 29 
-Bolivia                  cases: 107    	 total deaths: 6     	First case: Mar 09 
-Kyrgyzstan               cases: 107    	 total deaths:       	First case: Mar 17 
-Montenegro               cases: 109    	 total deaths: 2     	First case: Mar 16 
-Cambodia                 cases: 109    	 total deaths:       	First case: Jan 26 
-Namibia                  cases: 11     	 total deaths:       	First case: Mar 13 
-Georgia                  cases: 110    	 total deaths:       	First case: Feb 25 
-Guadeloupe               cases: 114    	 total deaths: 4     	First case: Mar 12 
-Palestine                cases: 119    	 total deaths: 1     	First case: Mar 04 
-Guyana                   cases: 12     	 total deaths: 2     	First case: Mar 11 
-Cayman Islands           cases: 12     	 total deaths: 1     	First case: Mar 12 
-Dominica                 cases: 12     	 total deaths:       	First case: Mar 21 
-Equatorial Guinea        cases: 12     	 total deaths:       	First case: Mar 13 
-Mongolia                 cases: 12     	 total deaths:       	First case: Mar 09 
-Netherlands              cases: 12,595 	 total deaths: 1,039 	First case: Feb 26 
-Belgium                  cases: 12,775 	 total deaths: 705   	First case: Feb 03 
-Martinique               cases: 128    	 total deaths: 3     	First case: Mar 04 
-Brunei                   cases: 129    	 total deaths: 1     	First case: Mar 08 
-Turkey                   cases: 13,531 	 total deaths: 214   	First case: Mar 09 
-Venezuela                cases: 135    	 total deaths: 3     	First case: Mar 12 
-Nigeria                  cases: 135    	 total deaths: 2     	First case: Feb 27 
-Bahamas                  cases: 14     	 total deaths:       	First case: Mar 14 
-Honduras                 cases: 141    	 total deaths: 7     	First case: Mar 10 
-Channel Islands          cases: 141    	 total deaths: 3     	First case: Mar 08 
-Mauritius                cases: 143    	 total deaths: 5     	First case: Mar 17 
-Sri Lanka                cases: 143    	 total deaths: 2     	First case: Jan 26 
-Myanmar                  cases: 15     	 total deaths: 1     	First case: Mar 22 
-Saint Martin             cases: 15     	 total deaths: 1     	First case: Feb 29 
-Eritrea                  cases: 15     	 total deaths:       	First case: Mar 20 
-Haiti                    cases: 15     	 total deaths:       	First case: Mar 19 
-Belarus                  cases: 152    	 total deaths: 1     	First case: Feb 27 
-Gabon                    cases: 16     	 total deaths: 1     	First case: Mar 12 
-New Caledonia            cases: 16     	 total deaths:       	First case: Mar 17 
-Switzerland              cases: 16,605 	 total deaths: 433   	First case: Feb 24 
-Ghana                    cases: 161    	 total deaths: 5     	First case: Mar 11 
-Ivory Coast              cases: 168    	 total deaths: 1     	First case: Mar 10 
-Faeroe Islands           cases: 169    	 total deaths:       	First case: Mar 03 
-Malta                    cases: 169    	 total deaths:       	First case: Mar 06 
-Uzbekistan               cases: 172    	 total deaths: 2     	First case: Mar 14 
-Afghanistan              cases: 174    	 total deaths: 4     	First case: Feb 23 
-Senegal                  cases: 175    	 total deaths:       	First case: Mar 01 
-Maldives                 cases: 18     	 total deaths:       	First case: Mar 06 
-USA                      cases: 185,159	 total deaths: 3,773 	First case: Jan 20 
-Cuba                     cases: 186    	 total deaths: 6     	First case: Mar 10 
-Tanzania                 cases: 19     	 total deaths: 1     	First case: Mar 15 
-Congo                    cases: 19     	 total deaths:       	First case: Mar 14 
-Oman                     cases: 192    	 total deaths: 1     	First case: Feb 23 
-Cameroon                 cases: 193    	 total deaths: 6     	First case: Mar 05 
-MS Zaandam               cases: 2      	 total deaths:       	First case: Mar 26 
-Anguilla                 cases: 2      	 total deaths:       	First case: Mar 25 
-Burundi                  cases: 2      	 total deaths:       	First case: Mar 30 
-Philippines              cases: 2,084  	 total deaths: 88    	First case: Jan 29 
-Luxembourg               cases: 2,178  	 total deaths: 23    	First case: Feb 28 
-Ecuador                  cases: 2,240  	 total deaths: 75    	First case: Feb 28 
-Romania                  cases: 2,245  	 total deaths: 82    	First case: Feb 25 
-Poland                   cases: 2,311  	 total deaths: 33    	First case: Mar 03 
-Russia                   cases: 2,337  	 total deaths: 17    	First case: Jan 30 
-Chile                    cases: 2,738  	 total deaths: 12    	First case: Mar 02 
-Malaysia                 cases: 2,766  	 total deaths: 43    	First case: Jan 24 
-Denmark                  cases: 2,860  	 total deaths: 90    	First case: Feb 26 
-Vietnam                  cases: 207    	 total deaths:       	First case: Jan 22 
-Guinea                   cases: 22     	 total deaths:       	First case: Mar 12 
-San Marino               cases: 230    	 total deaths: 25    	First case: Feb 26 
-Albania                  cases: 243    	 total deaths: 15    	First case: Mar 07 
-R¨¦union                  cases: 247    	 total deaths:       	First case: Mar 10 
-UK                       cases: 25,150 	 total deaths: 1,789 	First case: Jan 30 
-Ethiopia                 cases: 26     	 total deaths:       	First case: Mar 12 
-Burkina Faso             cases: 261    	 total deaths: 14    	First case: Mar 08 
-Cyprus                   cases: 262    	 total deaths: 8     	First case: Mar 08 
-Niger                    cases: 27     	 total deaths: 3     	First case: Mar 18 
-Bermuda                  cases: 27     	 total deaths:       	First case: Mar 17 
-Jordan                   cases: 274    	 total deaths: 5     	First case: Mar 01 
-Mali                     cases: 28     	 total deaths: 2     	First case: Mar 24 
-Kuwait                   cases: 289    	 total deaths:       	First case: Feb 23 
-Azerbaijan               cases: 298    	 total deaths: 5     	First case: Feb 27 
-Belize                   cases: 3      	 total deaths:       	First case: Mar 22 
-Botswana                 cases: 3      	 total deaths:       	First case: Mar 29 
-British Virgin Islands   cases: 3      	 total deaths:       	First case: Mar 24 
-CAR                      cases: 3      	 total deaths:       	First case: Mar 14 
-Liberia                  cases: 3      	 total deaths:       	First case: Mar 15 
-Ireland                  cases: 3,235  	 total deaths: 71    	First case: Feb 28 
-Czechia                  cases: 3,257  	 total deaths: 31    	First case: Feb 29 
-Djibouti                 cases: 30     	 total deaths:       	First case: Mar 17 
-El Salvador              cases: 32     	 total deaths:       	First case: Mar 18 
-Uruguay                  cases: 320    	 total deaths: 1     	First case: Mar 12 
-Taiwan                   cases: 322    	 total deaths: 5     	First case: Jan 20 
-North Macedonia          cases: 329    	 total deaths: 9     	First case: Feb 25 
-Togo                     cases: 34     	 total deaths: 1     	First case: Mar 05 
-Barbados                 cases: 34     	 total deaths:       	First case: Mar 16 
-Kazakhstan               cases: 343    	 total deaths: 2     	First case: Mar 12 
-Costa Rica               cases: 347    	 total deaths: 2     	First case: Mar 04 
-Zambia                   cases: 35     	 total deaths:       	First case: Mar 17 
-Moldova                  cases: 353    	 total deaths: 4     	First case: Mar 06 
-Jamaica                  cases: 36     	 total deaths: 1     	First case: Mar 09 
-French Polynesia         cases: 36     	 total deaths:       	First case: Mar 10 
-Tunisia                  cases: 362    	 total deaths: 10    	First case: Mar 01 
-Slovakia                 cases: 363    	 total deaths:       	First case: Mar 05 
-Andorra                  cases: 376    	 total deaths: 12    	First case: Mar 01 
-Guatemala                cases: 38     	 total deaths: 1     	First case: Mar 12 
-Latvia                   cases: 398    	 total deaths:       	First case: Mar 01 
-Bulgaria                 cases: 399    	 total deaths: 8     	First case: Mar 06 
-Gambia                   cases: 4      	 total deaths: 1     	First case: Mar 16 
-Nicaragua                cases: 4      	 total deaths: 1     	First case: Mar 18 
-Bhutan                   cases: 4      	 total deaths:       	First case: Mar 05 
-Sweden                   cases: 4,435  	 total deaths: 180   	First case: Jan 30 
-Australia                cases: 4,561  	 total deaths: 19    	First case: Jan 24 
-Norway                   cases: 4,635  	 total deaths: 39    	First case: Feb 25 
-Macao                    cases: 41     	 total deaths:       	First case: Jan 21 
-Bosnia and Herzegovina   cases: 420    	 total deaths: 13    	First case: Mar 04 
-French Guiana            cases: 43     	 total deaths:       	First case: Mar 06 
-Uganda                   cases: 44     	 total deaths:       	First case: Mar 20 
-Iran                     cases: 44,605 	 total deaths: 2,898 	First case: Feb 18 
-Lebanon                  cases: 463    	 total deaths: 12    	First case: Feb 20 
-Hungary                  cases: 492    	 total deaths: 16    	First case: Mar 03 
-Nepal                    cases: 5      	 total deaths:       	First case: Jan 23 
-Fiji                     cases: 5      	 total deaths:       	First case: Mar 18 
-Montserrat               cases: 5      	 total deaths:       	First case: Mar 17 
-Somalia                  cases: 5      	 total deaths:       	First case: Mar 15 
-Turks and Caicos         cases: 5      	 total deaths:       	First case: Mar 22 
-Israel                   cases: 5,358  	 total deaths: 20    	First case: Feb 20 
-Brazil                   cases: 5,717  	 total deaths: 201   	First case: Feb 24 
-Bangladesh               cases: 51     	 total deaths: 5     	First case: Mar 07 
-Monaco                   cases: 52     	 total deaths: 1     	First case: Feb 27 
-France                   cases: 52,128 	 total deaths: 3,523 	First case: Jan 23 
-Armenia                  cases: 532    	 total deaths: 3     	First case: Feb 29 
-Lithuania                cases: 537    	 total deaths: 8     	First case: Feb 27 
-Aruba                    cases: 55     	 total deaths:       	First case: Mar 12 
-Bahrain                  cases: 567    	 total deaths: 4     	First case: Feb 23 
-Madagascar               cases: 57     	 total deaths:       	First case: Mar 19 
-Kenya                    cases: 59     	 total deaths: 1     	First case: Mar 12 
-Cabo Verde               cases: 6      	 total deaths: 1     	First case: Mar 19 
-Mauritania               cases: 6      	 total deaths: 1     	First case: Mar 12 
-Vatican City             cases: 6      	 total deaths:       	First case: Mar 05 
-St. Barth                cases: 6      	 total deaths:       	First case: Feb 29 
-Sint Maarten             cases: 6      	 total deaths:       	First case: Mar 17 
-Isle of Man              cases: 60     	 total deaths:       	First case: Mar 18 
-Morocco                  cases: 602    	 total deaths: 36    	First case: Mar 01 
-Ukraine                  cases: 645    	 total deaths: 17    	First case: Mar 02 
-New Zealand              cases: 647    	 total deaths: 1     	First case: Feb 27 
-Paraguay                 cases: 65     	 total deaths: 3     	First case: Mar 06 
-UAE                      cases: 664    	 total deaths: 6     	First case: Jan 28 
-Liechtenstein            cases: 68     	 total deaths:       	First case:  Mar 02 
-Gibraltar                cases: 69     	 total deaths:       	First case: Mar 02 
-Iraq                     cases: 694    	 total deaths: 50    	First case: Feb 21 
-Angola                   cases: 7      	 total deaths: 2     	First case: Mar 19 
-Sudan                    cases: 7      	 total deaths: 2     	First case: Mar 12 
-Antigua and Barbuda      cases: 7      	 total deaths:       	First case: Mar 12 
-Chad                     cases: 7      	 total deaths:       	First case: Mar 18 
-Portugal                 cases: 7,443  	 total deaths: 160   	First case: Mar 01 
-Germany                  cases: 71,690 	 total deaths: 774   	First case: Jan 26 
-Egypt                    cases: 710    	 total deaths: 46    	First case: Feb 13 
-Diamond Princess         cases: 712    	 total deaths: 10    	First case: Feb 04 
-Hong Kong                cases: 714    	 total deaths: 4     	First case: Jan 22 
-Algeria                  cases: 716    	 total deaths: 44    	First case: Feb 24 
-Estonia                  cases: 745    	 total deaths: 4     	First case: Feb 26 
-Rwanda                   cases: 75     	 total deaths:       	First case: Mar 13 
-Qatar                    cases: 781    	 total deaths: 2     	First case: Feb 28 
-Zimbabwe                 cases: 8      	 total deaths: 1     	First case: Mar 19 
-Guinea-Bissau            cases: 8      	 total deaths:       	First case: Mar 24 
-Libya                    cases: 8      	 total deaths:       	First case: Mar 23 
-Mozambique               cases: 8      	 total deaths:       	First case: Mar 21 
-Saint Kitts and Nevis    cases: 8      	 total deaths:       	First case: Mar 24 
-Suriname                 cases: 8      	 total deaths:       	First case: Mar 12 
-Canada                   cases: 8,505  	 total deaths: 95    	First case: Jan 24 
-Slovenia                 cases: 802    	 total deaths: 15    	First case: Mar 03 
-China                    cases: 81,518 	 total deaths: 3,305 	First case: Jan 10 
-Croatia                  cases: 867    	 total deaths: 6     	First case: Feb 24 
-Trinidad and Tobago      cases: 87     	 total deaths: 3     	First case: Mar 11 
-Benin                    cases: 9      	 total deaths:       	First case: Mar 15 
-Grenada                  cases: 9      	 total deaths:       	First case: Mar 21  
-Laos                     cases: 9      	 total deaths:       	First case: Mar 23 
-Saint Lucia              cases: 9      	 total deaths:       	First case: Mar 12 
-Eswatini                 cases: 9      	 total deaths:       	First case: Mar 13 
-S. Korea                 cases: 9,786  	 total deaths: 162   	First case: Jan 19 
-Serbia                   cases: 900    	 total deaths: 23    	First case: Mar 05 
-Colombia                 cases: 906    	 total deaths: 16    	First case: Mar 05 
-Singapore                cases: 926    	 total deaths: 3     	First case: Jan 22 
-Mayotte                  cases: 94     	 total deaths: 1     	First case: Mar 13 
-Spain                    cases: 95,923 	 total deaths: 8,464 	First case: Jan 30 
-Argentina                cases: 966    	 total deaths: 26    	First case: Mar 02 
-DRC                      cases: 98     	 total deaths: 8     	First case: Mar 09 
+USA                      cases:  185159	 total deaths:   3773	First case: Jan 20 
+Italy                    cases:  105792	 total deaths:  12428	First case: Jan 29 
+Spain                    cases:   95923	 total deaths:   8464	First case: Jan 30 
+China                    cases:   81518	 total deaths:   3305	First case: Jan 10 
+Germany                  cases:   71690	 total deaths:    774	First case: Jan 26 
+France                   cases:   52128	 total deaths:   3523	First case: Jan 23 
+Iran                     cases:   44605	 total deaths:   2898	First case: Feb 18 
+UK                       cases:   25150	 total deaths:   1789	First case: Jan 30 
+Switzerland              cases:   16605	 total deaths:    433	First case: Feb 24 
+Turkey                   cases:   13531	 total deaths:    214	First case: Mar 09 
+Belgium                  cases:   12775	 total deaths:    705	First case: Feb 03 
+Netherlands              cases:   12595	 total deaths:   1039	First case: Feb 26 
+Austria                  cases:   10180	 total deaths:    128	First case: Feb 24 
+S. Korea                 cases:    9786	 total deaths:    162	First case: Jan 19 
+Canada                   cases:    8505	 total deaths:     95	First case: Jan 24 
+Portugal                 cases:    7443	 total deaths:    160	First case: Mar 01 
+Brazil                   cases:    5717	 total deaths:    201	First case: Feb 24 
+Israel                   cases:    5358	 total deaths:     20	First case: Feb 20 
+Norway                   cases:    4635	 total deaths:     39	First case: Feb 25 
+Australia                cases:    4561	 total deaths:     19	First case: Jan 24 
+Sweden                   cases:    4435	 total deaths:    180	First case: Jan 30 
+Czechia                  cases:    3257	 total deaths:     31	First case: Feb 29 
+Ireland                  cases:    3235	 total deaths:     71	First case: Feb 28 
+Denmark                  cases:    2860	 total deaths:     90	First case: Feb 26 
+Malaysia                 cases:    2766	 total deaths:     43	First case: Jan 24 
+Chile                    cases:    2738	 total deaths:     12	First case: Mar 02 
+Russia                   cases:    2337	 total deaths:     17	First case: Jan 30 
+Poland                   cases:    2311	 total deaths:     33	First case: Mar 03 
+Romania                  cases:    2245	 total deaths:     82	First case: Feb 25 
+Ecuador                  cases:    2240	 total deaths:     75	First case: Feb 28 
+Luxembourg               cases:    2178	 total deaths:     23	First case: Feb 28 
+Philippines              cases:    2084	 total deaths:     88	First case: Jan 29 
+Japan                    cases:    1953	 total deaths:     56	First case: Jan 14 
+Pakistan                 cases:    1938	 total deaths:     26	First case: Feb 25 
+Thailand                 cases:    1651	 total deaths:     10	First case: Jan 12 
+Saudi Arabia             cases:    1563	 total deaths:     10	First case: Mar 01 
+Indonesia                cases:    1528	 total deaths:    136	First case: Mar 01 
+Finland                  cases:    1418	 total deaths:     17	First case: Jan 28 
+India                    cases:    1397	 total deaths:     35	First case: Jan 29 
+South Africa             cases:    1353	 total deaths:      5	First case: Mar 04 
+Greece                   cases:    1314	 total deaths:     49	First case: Feb 25 
+Iceland                  cases:    1135	 total deaths:      2	First case: Feb 27 
+Dominican Republic       cases:    1109	 total deaths:     51	First case: Feb 29 
+Mexico                   cases:    1094	 total deaths:     28	First case: Feb 27 
+Panama                   cases:    1075	 total deaths:     27	First case: Mar 09 
+Peru                     cases:    1065	 total deaths:     30	First case: Mar 05 
+Argentina                cases:     966	 total deaths:     26	First case: Mar 02 
+Singapore                cases:     926	 total deaths:      3	First case: Jan 22 
+Colombia                 cases:     906	 total deaths:     16	First case: Mar 05 
+Serbia                   cases:     900	 total deaths:     23	First case: Mar 05 
+Croatia                  cases:     867	 total deaths:      6	First case: Feb 24 
+Slovenia                 cases:     802	 total deaths:     15	First case: Mar 03 
+Qatar                    cases:     781	 total deaths:      2	First case: Feb 28 
+Estonia                  cases:     745	 total deaths:      4	First case: Feb 26 
+Algeria                  cases:     716	 total deaths:     44	First case: Feb 24 
+Hong Kong                cases:     714	 total deaths:      4	First case: Jan 22 
+Diamond Princess         cases:     712	 total deaths:     10	First case: Feb 04 
+Egypt                    cases:     710	 total deaths:     46	First case: Feb 13 
+Iraq                     cases:     694	 total deaths:     50	First case: Feb 21 
+UAE                      cases:     664	 total deaths:      6	First case: Jan 28 
+New Zealand              cases:     647	 total deaths:      1	First case: Feb 27 
+Ukraine                  cases:     645	 total deaths:     17	First case: Mar 02 
+Morocco                  cases:     602	 total deaths:     36	First case: Mar 01 
+Bahrain                  cases:     567	 total deaths:      4	First case: Feb 23 
+Lithuania                cases:     537	 total deaths:      8	First case: Feb 27 
+Armenia                  cases:     532	 total deaths:      3	First case: Feb 29 
+Hungary                  cases:     492	 total deaths:     16	First case: Mar 03 
+Lebanon                  cases:     470	 total deaths:     12	First case: Feb 20 
+Bosnia and Herzegovina   cases:     420	 total deaths:     13	First case: Mar 04 
+Bulgaria                 cases:     399	 total deaths:      8	First case: Mar 06 
+Latvia                   cases:     398	 total deaths:      0	First case: Mar 01 
+Andorra                  cases:     376	 total deaths:     12	First case: Mar 01 
+Slovakia                 cases:     363	 total deaths:      0	First case: Mar 05 
+Tunisia                  cases:     362	 total deaths:     10	First case: Mar 01 
+Moldova                  cases:     353	 total deaths:      4	First case: Mar 06 
+Costa Rica               cases:     347	 total deaths:      2	First case: Mar 04 
+Kazakhstan               cases:     343	 total deaths:      2	First case: Mar 12 
+North Macedonia          cases:     329	 total deaths:      9	First case: Feb 25 
+Taiwan                   cases:     322	 total deaths:      5	First case: Jan 20 
+Uruguay                  cases:     320	 total deaths:      1	First case: Mar 12 
+Azerbaijan               cases:     298	 total deaths:      5	First case: Feb 27 
+Kuwait                   cases:     289	 total deaths:      0	First case: Feb 23 
+Jordan                   cases:     274	 total deaths:      5	First case: Mar 01 
+Cyprus                   cases:     262	 total deaths:      8	First case: Mar 08 
+Burkina Faso             cases:     261	 total deaths:     14	First case: Mar 08 
+R¨¦union                  cases:     247	 total deaths:      0	First case: Mar 10 
+Albania                  cases:     243	 total deaths:     15	First case: Mar 07 
+San Marino               cases:     230	 total deaths:     25	First case: Feb 26 
+Vietnam                  cases:     207	 total deaths:      0	First case: Jan 22 
+Cameroon                 cases:     193	 total deaths:      6	First case: Mar 05 
+Oman                     cases:     192	 total deaths:      1	First case: Feb 23 
+Cuba                     cases:     186	 total deaths:      6	First case: Mar 10 
+Senegal                  cases:     175	 total deaths:      0	First case: Mar 01 
+Afghanistan              cases:     174	 total deaths:      4	First case: Feb 23 
+Uzbekistan               cases:     172	 total deaths:      2	First case: Mar 14 
+Faeroe Islands           cases:     169	 total deaths:      0	First case: Mar 03 
+Malta                    cases:     169	 total deaths:      0	First case: Mar 06 
+Ivory Coast              cases:     168	 total deaths:      1	First case: Mar 10 
+Ghana                    cases:     161	 total deaths:      5	First case: Mar 11 
+Belarus                  cases:     152	 total deaths:      1	First case: Feb 27 
+Mauritius                cases:     143	 total deaths:      5	First case: Mar 17 
+Sri Lanka                cases:     143	 total deaths:      2	First case: Jan 26 
+Honduras                 cases:     141	 total deaths:      7	First case: Mar 10 
+Channel Islands          cases:     141	 total deaths:      3	First case: Mar 08 
+Venezuela                cases:     135	 total deaths:      3	First case: Mar 12 
+Nigeria                  cases:     135	 total deaths:      2	First case: Feb 27 
+Brunei                   cases:     129	 total deaths:      1	First case: Mar 08 
+Martinique               cases:     128	 total deaths:      3	First case: Mar 04 
+Palestine                cases:     119	 total deaths:      1	First case: Mar 04 
+Guadeloupe               cases:     114	 total deaths:      4	First case: Mar 12 
+Georgia                  cases:     110	 total deaths:      0	First case: Feb 25 
+Montenegro               cases:     109	 total deaths:      2	First case: Mar 16 
+Cambodia                 cases:     109	 total deaths:      0	First case: Jan 26 
+Bolivia                  cases:     107	 total deaths:      6	First case: Mar 09 
+Kyrgyzstan               cases:     107	 total deaths:      0	First case: Mar 17 
+DRC                      cases:      98	 total deaths:      8	First case: Mar 09 
+Mayotte                  cases:      94	 total deaths:      1	First case: Mar 13 
+Trinidad and Tobago      cases:      87	 total deaths:      3	First case: Mar 11 
+Rwanda                   cases:      75	 total deaths:      0	First case: Mar 13 
+Gibraltar                cases:      69	 total deaths:      0	First case: Mar 02 
+Liechtenstein            cases:      68	 total deaths:      0	First case: Mar 02 
+Paraguay                 cases:      65	 total deaths:      3	First case: Mar 06 
+Isle of Man              cases:      60	 total deaths:      0	First case: Mar 18 
+Kenya                    cases:      59	 total deaths:      1	First case: Mar 12 
+Madagascar               cases:      57	 total deaths:      0	First case: Mar 19 
+Aruba                    cases:      55	 total deaths:      0	First case: Mar 12 
+Monaco                   cases:      52	 total deaths:      1	First case: Feb 27 
+Bangladesh               cases:      51	 total deaths:      5	First case: Mar 07 
+Uganda                   cases:      44	 total deaths:      0	First case: Mar 20 
+French Guiana            cases:      43	 total deaths:      0	First case: Mar 06 
+Macao                    cases:      41	 total deaths:      0	First case: Jan 21 
+Guatemala                cases:      38	 total deaths:      1	First case: Mar 12 
+Jamaica                  cases:      36	 total deaths:      1	First case: Mar 09 
+French Polynesia         cases:      36	 total deaths:      0	First case: Mar 10 
+Zambia                   cases:      35	 total deaths:      0	First case: Mar 17 
+Togo                     cases:      34	 total deaths:      1	First case: Mar 05 
+Barbados                 cases:      34	 total deaths:      0	First case: Mar 16 
+El Salvador              cases:      32	 total deaths:      0	First case: Mar 18 
+Djibouti                 cases:      30	 total deaths:      0	First case: Mar 17 
+Mali                     cases:      28	 total deaths:      2	First case: Mar 24 
+Niger                    cases:      27	 total deaths:      3	First case: Mar 18 
+Bermuda                  cases:      27	 total deaths:      0	First case: Mar 17 
+Ethiopia                 cases:      26	 total deaths:      0	First case: Mar 12 
+Guinea                   cases:      22	 total deaths:      0	First case: Mar 12 
+Tanzania                 cases:      19	 total deaths:      1	First case: Mar 15 
+Congo                    cases:      19	 total deaths:      0	First case: Mar 14 
+Maldives                 cases:      18	 total deaths:      0	First case: Mar 06 
+Gabon                    cases:      16	 total deaths:      1	First case: Mar 12 
+New Caledonia            cases:      16	 total deaths:      0	First case: Mar 17 
+Myanmar                  cases:      15	 total deaths:      1	First case: Mar 22 
+Saint Martin             cases:      15	 total deaths:      1	First case: Feb 29 
+Eritrea                  cases:      15	 total deaths:      0	First case: Mar 20 
+Haiti                    cases:      15	 total deaths:      0	First case: Mar 19 
+Bahamas                  cases:      14	 total deaths:      0	First case: Mar 14 
+Guyana                   cases:      12	 total deaths:      2	First case: Mar 11 
+Cayman Islands           cases:      12	 total deaths:      1	First case: Mar 12 
+Dominica                 cases:      12	 total deaths:      0	First case: Mar 21 
+Equatorial Guinea        cases:      12	 total deaths:      0	First case: Mar 13 
+Mongolia                 cases:      12	 total deaths:      0	First case: Mar 09 
+Namibia                  cases:      11	 total deaths:      0	First case: Mar 13 
+Syria                    cases:      10	 total deaths:      2	First case: Mar 21 
+Greenland                cases:      10	 total deaths:      0	First case: Mar 15 
+Seychelles               cases:      10	 total deaths:      0	First case: Mar 13 
+Benin                    cases:       9	 total deaths:      0	First case: Mar 15 
+Grenada                  cases:       9	 total deaths:      0	First case: Mar 21 
+Laos                     cases:       9	 total deaths:      0	First case: Mar 23 
+Saint Lucia              cases:       9	 total deaths:      0	First case: Mar 12 
+Eswatini                 cases:       9	 total deaths:      0	First case: Mar 13 
+Zimbabwe                 cases:       8	 total deaths:      1	First case: Mar 19 
+Guinea-Bissau            cases:       8	 total deaths:      0	First case: Mar 24 
+Libya                    cases:       8	 total deaths:      0	First case: Mar 23 
+Mozambique               cases:       8	 total deaths:      0	First case: Mar 21 
+Saint Kitts and Nevis    cases:       8	 total deaths:      0	First case: Mar 24 
+Suriname                 cases:       8	 total deaths:      0	First case: Mar 12 
+Angola                   cases:       7	 total deaths:      2	First case: Mar 19 
+Sudan                    cases:       7	 total deaths:      2	First case: Mar 12  
+Antigua and Barbuda      cases:       7	 total deaths:      0	First case: Mar 12 
+Chad                     cases:       7	 total deaths:      0	First case: Mar 18 
+Cabo Verde               cases:       6	 total deaths:      1	First case: Mar 19 
+Mauritania               cases:       6	 total deaths:      1	First case: Mar 12 
+Vatican City             cases:       6	 total deaths:      0	First case: Mar 05 
+St. Barth                cases:       6	 total deaths:      0	First case: Feb 29 
+Sint Maarten             cases:       6	 total deaths:      0	First case: Mar 17 
+Nepal                    cases:       5	 total deaths:      0	First case: Jan 23 
+Fiji                     cases:       5	 total deaths:      0	First case: Mar 18 
+Montserrat               cases:       5	 total deaths:      0	First case: Mar 17 
+Somalia                  cases:       5	 total deaths:      0	First case: Mar 15 
+Turks and Caicos         cases:       5	 total deaths:      0	First case: Mar 22 
+Gambia                   cases:       4	 total deaths:      1	First case: Mar 16 
+Nicaragua                cases:       4	 total deaths:      1	First case: Mar 18 
+Bhutan                   cases:       4	 total deaths:      0	First case: Mar 05 
+Belize                   cases:       3	 total deaths:      0	First case: Mar 22 
+Botswana                 cases:       3	 total deaths:      0	First case: Mar 29 
+British Virgin Islands   cases:       3	 total deaths:      0	First case: Mar 24 
+CAR                      cases:       3	 total deaths:      0	First case: Mar 14 
+Liberia                  cases:       3	 total deaths:      0	First case: Mar 15 
+MS Zaandam               cases:       2	 total deaths:      0	First case: Mar 26 
+Anguilla                 cases:       2	 total deaths:      0	First case: Mar 25 
+Burundi                  cases:       2	 total deaths:      0	First case: Mar 30 
+Papua New Guinea         cases:       1	 total deaths:      0	First case: Mar 19 
+St. Vincent Grenadines   cases:       1	 total deaths:      0	First case: Mar 10 
+Sierra Leone             cases:       1	 total deaths:      0	First case: Mar 30 
+Timor-Leste              cases:       1	 total deaths:      0	First case: Mar 20 
