@@ -2,12 +2,9 @@ import bs4
 from bs4 import BeautifulSoup
 import os
 import requests
+import math
 
 class country:
-    name = ''
-    totalCases = 0;
-    totalDeaths = 0
-    firstCase = ''
     
     def __init__(self, name, totalCases, totalDeaths, firstCase):
         self.name = name
@@ -16,7 +13,9 @@ class country:
         self.firstCase = firstCase
 
     def __str__(self):
-        return (self.name + "\t cases: " + self.totalCases + "\t total deaths: " + self.totalDeaths)
+        #calculate number of tabs
+        self.displayName = '{:25}'.format(self.name)
+        return (self.displayName + "cases: " + '{:7}'.format(self.totalCases) + "\t total deaths: " + '{:6}'.format(self.totalDeaths) + "\tFirst case: " + self.firstCase)
 
 #path of link
 path = "https://www.worldometers.info/coronavirus/"
@@ -43,9 +42,11 @@ for item in items:
     name = list[0].text
     cases = list[1].text
     deaths = list[3].text
-    firstDate = list[10].text
+    firstDate = list[10].text.replace('\n', '')
     count = country(name, cases, deaths, firstDate)
     database.append(count)
+
+database.sort(key=lambda x: x.totalCases, reverse=False)
 
 #write to file
 try:
